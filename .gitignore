@@ -1,0 +1,7 @@
+out/
+docs/
+weather_report.html
+.idea/
+*.iml
+.vscode/
+.DS_Store
